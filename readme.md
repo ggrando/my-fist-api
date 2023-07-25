@@ -13,11 +13,3 @@ This API was created with the goal of learning the basic concepts of building RE
 - [MongoDB](https://www.mongodb.com/): NoSQL database.
 - [Mongoose](https://mongoosejs.com/): Object Data Modeling (ODM) for MongoDB in Node.js.
 
-## How to Use
-
-1. Make sure you have Node.js and MongoDB installed on your machine.
-
-2. Clone this repository to your computer:
-
-```bash
-git clone https://github.com/ggrando/my-first-api.git
