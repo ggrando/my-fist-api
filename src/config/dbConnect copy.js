@@ -1,6 +1,6 @@
 import mongoose from "mongoose"
 
-mongoose.connect("___");
+mongoose.connect("______");
 
 let db = mongoose.connection;
 
