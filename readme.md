@@ -1,23 +1,23 @@
-# Minha Primeira API com Express e MongoDB
+# My First API with Express and MongoDB
 
-Bem-vindo(a) ao repositório da minha primeira API! Neste projeto, desenvolvi uma API simples utilizando o framework Express, o banco de dados MongoDB com a biblioteca Mongoose e Node.js.
+Welcome to the repository of my first API! In this project, I have developed a simple API using the Express framework, MongoDB database with Mongoose library, and Node.js.
 
-## Descrição
+## Description
 
-Esta API foi criada com o objetivo de aprender os conceitos básicos de desenvolvimento de APIs RESTful utilizando o Express e MongoDB. Ela fornece endpoints para realizar operações CRUD (Create, Read, Update e Delete) em um banco de dados MongoDB, permitindo a criação, leitura, atualização e exclusão de recursos.
+This API was created with the goal of learning the basic concepts of building RESTful APIs using Express and MongoDB. It provides endpoints to perform CRUD operations (Create, Read, Update, and Delete) on a MongoDB database, allowing the creation, reading, updating, and deletion of resources.
 
-## Tecnologias utilizadas
+## Technologies Used
 
-- [Node.js](https://nodejs.org/): Plataforma de desenvolvimento server-side.
-- [Express](https://expressjs.com/): Framework Node.js para construção de aplicações web e APIs RESTful.
-- [MongoDB](https://www.mongodb.com/): Banco de dados NoSQL.
-- [Mongoose](https://mongoosejs.com/): ODM (Object Data Modeling) para MongoDB em Node.js.
+- [Node.js](https://nodejs.org/): Server-side development platform.
+- [Express](https://expressjs.com/): Node.js framework for building web applications and RESTful APIs.
+- [MongoDB](https://www.mongodb.com/): NoSQL database.
+- [Mongoose](https://mongoosejs.com/): Object Data Modeling (ODM) for MongoDB in Node.js.
 
-## Como usar
+## How to Use
 
-1. Certifique-se de ter o Node.js e o MongoDB instalados em sua máquina.
+1. Make sure you have Node.js and MongoDB installed on your machine.
 
-2. Clone este repositório para o seu computador:
+2. Clone this repository to your computer:
 
 ```bash
 git clone https://github.com/ggrando/my-first-api.git
